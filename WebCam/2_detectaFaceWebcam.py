@@ -3,7 +3,7 @@ import cv2
 video = cv2.VideoCapture(0)
 
 # Declarando o lugar de trabalho
-workPath = "/home/nicolas/Documentos/estudos/deteccaoFaces/"
+workPath = "/l/disk0/nicolas/Documentos/pessoal/OpenCV/"
 
 # Declarando o Classificador
 classificador = cv2.CascadeClassifier(workPath + "cascades/haarcascade_frontalface_default.xml")

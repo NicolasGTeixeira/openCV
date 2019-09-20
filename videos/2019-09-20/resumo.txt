@@ -1,0 +1,2 @@
+3) Detecção de Faces em tempo real com o WebCam (Dinâmico)
+4) Detecção de Olhos nas faces em tempo real com o WebCam (Dinâmico)
