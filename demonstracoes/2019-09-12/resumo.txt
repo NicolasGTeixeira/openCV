@@ -1,0 +1,2 @@
+1) Detecção de faces em uma imagem (Estático)
+2) Detecção de Olhos nas faces em uma imagem (Estático)

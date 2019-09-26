@@ -2,7 +2,12 @@ import cv2
 
 video = cv2.VideoCapture(0)
 
+<<<<<<< HEAD:codigoDeteccao/DeteccaoWebCam/2_detectaFaceWebcam.py
 workPath = "/home/nicolas/Documentos/estudos/deteccaoFaces/"
+=======
+# Declarando o lugar de trabalho
+workPath = "/l/disk0/nicolas/Documentos/pessoal/OpenCV/"
+>>>>>>> ecd345259fd07cbe17e8a96fcda370187d80049f:WebCam/2_detectaFaceWebcam.py
 
 classificador = cv2.CascadeClassifier(workPath + "cascades/haarcascade_frontalface_default.xml")
 
